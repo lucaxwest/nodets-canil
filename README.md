@@ -1,5 +1,5 @@
 # nodets-canil
-Plataforma feita utilizando Node+TS
+Plataforma feita utilizando NODE-TS + Mustache.
 
 
 ### Pré-req globais:
